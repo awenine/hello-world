@@ -7,6 +7,8 @@ testing markdown: *italic*? **bold**
 
 ~~striken through text~~
 
+This text is added as a commit
+
 [reference link][some reference text]
 
 [external link with title](http://quantumnatives.com/ "Quantum Natives Home Page")
